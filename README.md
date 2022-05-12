@@ -1,4 +1,4 @@
-# JavaPratice-1
+## Informações
 
 * Prática de lógica de programação com exercícios;
 * Somente conceitos de entrada, processamento e saída de dados;
